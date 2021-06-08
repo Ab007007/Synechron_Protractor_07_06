@@ -26,15 +26,15 @@ console.log(fruits);
 fruits[1] = 'New Grapes'
 console.log(fruits);
 
-fruits.slice(1,3); //startingindex and ending index
+let newfruits = fruits.slice(1,3); //startingindex and ending index
+console.log(newfruits);
+
+
+let newEl = fruits.splice(0,3); //starting index and number of elemetns
 console.log(fruits);
+console.log(newEl);
+// let evennum = [2,4,6]
+// let oddnum = [1,3,5]
 
-
-let newFruits = fruits.splice(0,2); //starting index and number of elemetns
-console.log(newFruits);
-
-let evennum = [2,4,6]
-let oddnum = [1,3,5]
-
-let num = evennum.concat(oddnum)
-console.log(num);
+// let num = evennum.concat(oddnum)
+// console.log(num);

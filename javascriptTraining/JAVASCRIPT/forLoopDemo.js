@@ -19,3 +19,18 @@ for(const fruit of fruits)
 {
     console.log(fruit);
 }
+
+console.log("--- usning for each with arrow --------");
+fruits.forEach(fruit1 => {
+    console.log(fruit1);
+});
+
+
+console.log("--- using for each with function experssion ---");
+
+fruits.forEach(function (fruit)
+{
+    console.log(fruit);
+})
+
+
