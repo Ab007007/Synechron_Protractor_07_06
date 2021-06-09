@@ -74,5 +74,15 @@ describe("Super Calculator  ", function () {
         }
     });
 
+     // get the first row different col in a table
+     element.all(by.repeater('result in memory')).get(0).all(by.css("[class='ng-binding']"))
+     .getText().then(function(cells){
+            for(cell of cells)
+            {
+                console.log("Cell value " + cell);
+            }
+
+     })
+
     });
 });
