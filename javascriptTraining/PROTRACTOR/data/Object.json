@@ -1,0 +1,16 @@
+{
+    "url": "http://formy-project.herokuapp.com/form",
+    "locators": {
+        "formpage": {
+            "firstname": "first-name",
+            "lastname": "last-name",
+            "jobtitle": "job-title",
+            "submit": "Submit"
+        }
+    },
+    "formdata": {
+        "firstName": "UserFirstName",
+        "lastname": "UserLastName",
+        "jobtitle": "JobTitle"
+    }
+}

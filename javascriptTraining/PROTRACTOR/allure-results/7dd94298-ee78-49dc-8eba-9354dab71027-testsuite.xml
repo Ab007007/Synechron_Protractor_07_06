@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623301674747' stop='1623301730388'>
+    <name>Super Calculator  </name>
+    <title>Super Calculator  </title>
+    <test-cases>
+        <test-case start='1623301674748' status='passed' stop='1623301688569'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623301688569' status='passed' stop='1623301717064'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623301717064' status='passed' stop='1623301724245'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623301724245' status='passed' stop='1623301730385'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

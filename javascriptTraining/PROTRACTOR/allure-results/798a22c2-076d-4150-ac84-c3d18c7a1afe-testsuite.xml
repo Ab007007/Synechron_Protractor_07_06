@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623301306856' stop='1623301327419'>
+    <name>Super Calculator  </name>
+    <title>Super Calculator  </title>
+    <test-cases>
+        <test-case start='1623301306857' status='passed' stop='1623301327417'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

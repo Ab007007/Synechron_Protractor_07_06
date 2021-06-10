@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623321019725' stop='1623321072644'>
+    <name>Super Calculator  </name>
+    <title>Super Calculator  </title>
+    <test-cases>
+        <test-case start='1623321019726' status='undefined'>
+            <name>Not-Angular Demo - Using Actions in protractor</name>
+            <title>Not-Angular Demo - Using Actions in protractor</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623321019726' status='passed' stop='1623321049454'>
+            <name>Not-Angular Demo - Using Actions in protractor</name>
+            <title>Not-Angular Demo - Using Actions in protractor</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5c81dca0-a114-4e15-9ca6-3784c6af1e83-attachment.png' type='image/png' size='495653'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623321049454' status='undefined'>
+            <name> Perform Drag and drop </name>
+            <title> Perform Drag and drop </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623321049454' status='passed' stop='1623321072642'>
+            <name> Perform Drag and drop </name>
+            <title> Perform Drag and drop </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0a259639-cbd7-4107-94e1-30a0e302c261-attachment.png' type='image/png' size='247587'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

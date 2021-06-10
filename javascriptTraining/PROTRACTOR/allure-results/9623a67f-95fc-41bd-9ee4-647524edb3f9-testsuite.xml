@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623309564952' stop='1623309569048'>
+    <name>Switch to Window </name>
+    <title>Switch to Window </title>
+    <test-cases>
+        <test-case start='1623309564953' status='undefined'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623309564953' status='passed' stop='1623309569046'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2f107a19-3a67-4b8a-b1aa-6c74db9c9d9a-attachment.png' type='image/png' size='59944'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

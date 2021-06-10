@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623321072651' stop='1623321093789'>
+    <name>Super Calculator  </name>
+    <title>Super Calculator  </title>
+    <test-cases>
+        <test-case start='1623321072652' status='undefined'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623321072652' status='passed' stop='1623321082240'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4e83b697-3390-4fb3-9c97-6fdbc4a1c82d-attachment.png' type='image/png' size='19687'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623321082240' status='undefined'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623321082240' status='passed' stop='1623321086019'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3ff3c546-a51e-4c53-bae8-c7c7f95cb48c-attachment.png' type='image/png' size='18991'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623321086019' status='undefined'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623321086019' status='passed' stop='1623321089809'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8b263107-dc27-448d-9416-7e4c8570a0df-attachment.png' type='image/png' size='19544'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623321089809' status='undefined'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623321089809' status='passed' stop='1623321093788'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='51adc205-0bb3-4af0-8aa0-0219266c1388-attachment.png' type='image/png' size='19487'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

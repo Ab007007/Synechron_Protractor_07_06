@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623305215837' stop='1623305263332'>
+    <name>Super Calculator  </name>
+    <title>Super Calculator  </title>
+    <test-cases>
+        <test-case start='1623305215837' status='undefined'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305215837' status='passed' stop='1623305238272'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4353c4ce-9603-4d04-b98e-0130275c15e7-attachment.png' type='image/png' size='15887'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305238273' status='undefined'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305238273' status='passed' stop='1623305245750'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5d32b38b-40ea-4780-82f6-154fada3a918-attachment.png' type='image/png' size='15292'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305245751' status='undefined'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305245751' status='passed' stop='1623305252033'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='03063e9f-0b35-494b-a439-3ad9960a7761-attachment.png' type='image/png' size='15751'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305252033' status='undefined'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305252033' status='passed' stop='1623305258401'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9887de3d-9085-4925-808b-c1e8cf12f336-attachment.png' type='image/png' size='15853'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305258401' status='undefined'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305258401' status='passed' stop='1623305263330'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='57528a4e-5054-4120-8dc5-4105e7b02977-attachment.png' type='image/png' size='15888'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

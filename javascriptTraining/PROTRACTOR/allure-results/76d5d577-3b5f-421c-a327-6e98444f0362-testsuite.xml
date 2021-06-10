@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1623305146339' stop='1623305182907'>
+    <name>Super Calculator  </name>
+    <title>Super Calculator  </title>
+    <test-cases>
+        <test-case start='1623305146340' status='undefined'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305146340' status='passed' stop='1623305157721'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='13a57d04-73fe-439b-96b4-6778217a79c1-attachment.png' type='image/png' size='16019'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305157721' status='undefined'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305157721' status='passed' stop='1623305164691'>
+            <name>Validate Substraction of two numbers</name>
+            <title>Validate Substraction of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='19d0c9f5-d640-4235-a8cc-406b9be893b9-attachment.png' type='image/png' size='15330'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305164691' status='undefined'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305164691' status='passed' stop='1623305170870'>
+            <name>Validate Multiplication of two numbers</name>
+            <title>Validate Multiplication of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='290918dd-8ff8-4cab-841d-d5d49c9fe844-attachment.png' type='image/png' size='15805'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305170870' status='undefined'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305170870' status='passed' stop='1623305177401'>
+            <name>Validate Division of two numbers</name>
+            <title>Validate Division of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7b6c9b8e-b9d9-4d73-a92a-3a796a3c26e6-attachment.png' type='image/png' size='15813'/>
+            </attachments>
+        </test-case>
+        <test-case start='1623305177401' status='undefined'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1623305177401' status='failed' stop='1623305182905'>
+            <name>Validate Addition of two numbers</name>
+            <title>Validate Addition of two numbers</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6642de3b-e977-4ba3-8211-c1f933d2d255-attachment.png' type='image/png' size='15928'/>
+            </attachments>
+            <failure>
+                <message>Expected '5' to be 5.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (D:\synechron_07_06_protractor\javascriptTraining\PROTRACTOR\development.js:59:57)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\Aravind\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
